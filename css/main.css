@@ -3,6 +3,13 @@
     font-family: 'Francois One', sans-serif;
 
 }
+HTML{
+width:100%;
+  background-image:
+    linear-gradient(
+        #7B68EE, #9370DB,#8A2BE2
+    );
+{   
 header{
     width: 100%;
     height: 50px;
@@ -345,12 +352,6 @@ a:link {
         text-decoration: none;
     }
         
-    body{
-    width:100%;
-  background-image:
-    linear-gradient(
-        #7B68EE, #9370DB,#8A2BE2
-    );
-{
+    
 
 }
